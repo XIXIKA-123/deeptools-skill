@@ -1,0 +1,4 @@
+# Runtime dependencies.
+numpy>=1.23.5
+pyBigWig>=0.3.18
+matplotlib>=3.3.2
